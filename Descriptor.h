@@ -1,6 +1,7 @@
 
 #pragma once
 #include "Result.h"
+#include "Descriptor.h"
 #include <cstdint>
 #include <vector>
 

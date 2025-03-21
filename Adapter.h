@@ -1,6 +1,7 @@
 
 #pragma once
 #include "Result.h"
+#include "Format.h"
 #include <string>
 #include <vector>
 #include <cstdint>
