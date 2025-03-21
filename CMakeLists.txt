@@ -14,6 +14,7 @@ set(RHI_HEADERS
     Texture.h
     Buffer.h
     CommandBuffer.h
+    CommandPool.h
     Memory.h
     Pipeline.h
     Shader.h
